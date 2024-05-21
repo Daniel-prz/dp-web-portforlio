@@ -49,4 +49,33 @@ footer not staying to bottom/body not taking up full height, need solution
 
 ## Next steps
 
-fix problem above, add bio, add email contact form, finish skills, add photo
+fix problem above, add bio, add email contact form, finish skills
+
+## Day 4
+
+Fixed footer problem  
+added email contact form
+finished skills component
+
+## challenges/solutions
+
+used flexbox to solve footer problem
+
+## Next Steps
+
+Add bio  
+Finish styling
+
+## Day 5
+
+Added bio  
+Finished styling
+
+## Challenges/solutions
+
+used tailwind breakpoints for responsivity
+used hover effects and box shadows for some finishing touches
+
+## Next steps
+
+Deploy to netlify
